@@ -12,6 +12,7 @@ public class Firstgit {
 			}
 			else
 				System.out.println("welcome to git...");
+			i++;
 		}
 	}
 
